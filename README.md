@@ -11,3 +11,11 @@ Em primeiro lugar, foi criado um clone do repositório para máquina utilizando 
 ## Segundo passo
 
 Depois, foi realizado um fork pela minha outra conta chamada artcb05 na qual estou editando esse arquivo por ela e logo será feito o pull request.
+
+## Terceiro passo
+
+A minha conta principal aceitou a solicitação de mudança e foi feito o merge entre a versão alternativa e a principal do arquivo. Por último foi utilizado a issue como forma de melhoria no arquivo para adicionar uma imagem ao projeto. 
+
+![Gato Joia](https://media.tenor.com/bwsMTQgoIw4AAAAe/gato-joia.png)
+
+## Fim
